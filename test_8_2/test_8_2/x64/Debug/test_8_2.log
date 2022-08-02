@@ -1,0 +1,4 @@
+﻿  test.c
+F:\C语言\code\test_8_2\test_8_2\test.c(453,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+F:\C语言\code\test_8_2\test_8_2\test.c(454,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+  test_8_2.vcxproj -> F:\C语言\code\test_8_2\x64\Debug\test_8_2.exe
